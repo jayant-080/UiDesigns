@@ -30,6 +30,8 @@ class MainActivity : ComponentActivity() {
             UiDesignsTheme {
                 val navController = rememberNavController()
                 MyNavHost(navHostController = navController)
+                print("experimental changes")
+                print("master things")
             }
         }
     }
