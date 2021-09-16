@@ -32,6 +32,7 @@ class MainActivity : ComponentActivity() {
                 MyNavHost(navHostController = navController)
                 print("experimental changes")
                 print("master things")
+                print("friend changes things")
             }
         }
     }
