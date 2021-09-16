@@ -57,7 +57,7 @@ fun HomeScreen(onNavigation: () -> Unit) {
                                 Icon( Icons.Default.Menu, contentDescription ="hamberger",tint = Color.White)
                              }
                          },
-                         backgroundColor = Color.Red
+                         backgroundColor = Color.Blue
                      )
             },
             drawerShape= RoundedCornerShape(topEnd = 25.dp, bottomEnd = 25.dp),
